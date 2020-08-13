@@ -1,0 +1,31 @@
+.Auth {
+  text-align: center;
+}
+
+.home-page {
+  background-color: white;
+  margin: 80px auto;
+  padding: 64px;
+  border-radius: 8px;
+  max-width: 730px;
+}
+
+.home-page h1 {
+  font-size: 30px;
+}
+
+.field {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+  border: 0;
+  padding: 16px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  outline: none;
+}
+
+
+
+
