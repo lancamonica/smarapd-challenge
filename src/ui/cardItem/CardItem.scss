@@ -1,0 +1,38 @@
+.card-item {
+    border: solid 1px grey;
+    padding: 25px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    width: 75%;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.img-content {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.img-user {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.content {
+    margin-left: 20px;
+}
+
+strong {
+    display: block;
+    font-size: 18px;
+    color: #333;
+}
+
+span {
+    font-size: 16px;
+    color: #999;
+    margin-top: 2px;
+}
